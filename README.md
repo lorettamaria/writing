@@ -10,18 +10,18 @@ Live version: [Writing](https://josephernest.github.io/writing/).
 
 Installation
 ----
-Just open `index.html` and that's it! There is no server code. Is that so simple? Yes!
+Just open `index.html` and that's it! There is no server code. Is it really that simple? Yes!
 
 Usage
 ----
 
-* CTRL + D: Toggle display mode
+* CTRL + D: toggle display mode
 
-* CTRL + P: Print or export as PDF
+* CTRL + P: print or export as PDF
 
-* CTRL + S: Save source code as .MD file
+* CTRL + S: save source code as .MD file
 
-and a few other commands (change font, etc.) that can be found in:
+and a few other commands (change font, etc.) which can be found in:
 
 * CTRL+SHIFT+H or `?` bottom-left icon: Show help
 
